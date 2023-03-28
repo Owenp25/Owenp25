@@ -7,7 +7,7 @@
 - I have hands on experience with data visualization and analysis as a Data Analyst Intern at Union Mutual of Vermont.  
   
 
-- I experience using R to analyze the performance of the UVM Men's D1 soccer team, providing insight to the coaching staff.  
+- I have experience using R to analyze the performance of the UVM Men's D1 soccer team, providing insight to the coaching staff.  
   
 
 <br/>  
