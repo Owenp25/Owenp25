@@ -1,5 +1,6 @@
-## <div align="center">My name is Owen Patrick, I am open to work and am graduating from the University of Vermont in the spring of 2023 with a B.S. in Data Science. I have a passion for machine learning, data visualization, and sports analytics.</div>  
+## <div align="center"> Welcome! </div>  
   
+  My name is Owen Patrick, I am open to work and am graduating from the University of Vermont in the spring of 2023 with a B.S. in Data Science. I have a passion for   machine learning, data visualization, and sports analytics.
 
 -  I’m currently working on a NBA game prediction model in an upper level machine learning course.  
   
@@ -9,6 +10,7 @@
 
 - I have experience using R to analyze the performance of the UVM Men's D1 soccer team, providing insight to the coaching staff.  
   
+  Check out my projects below!
 
 <br/>  
 
