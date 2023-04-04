@@ -9,8 +9,8 @@
   
 
 - I have experience using R to analyze the performance of the UVM Men's D1 soccer team, providing insight to the coaching staff.  
-  
-  Check out my projects below!
+ 
+Check out my projects below!
 
 <br/>  
 
