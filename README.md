@@ -1,14 +1,14 @@
 ## <div align="center"> Welcome! </div>  
   
-  My name is Owen Patrick, I recently graduated from the University of Vermont with a B.S. in Data Science. I have a passion for machine learning, data visualization, and sports analytics.
-
--  I recently finished a NBA game prediction model in an upper level machine learning course.  
-  
-
+  My name is Owen Patrick, I recently graduated from the University of Vermont with a B.S. in Data Science. I have a passion for machine learning, data visualization, and sports analytics. I find analytics in professional football (soccer) to be extremely cool, especially in the context of tactics and scouting. I am an avid soccer fan and I believe that analytics can be used to find weaknesses in opposition, strengthen a pre-existing tactic, or find under-the-radar players well-suited to a particular system.
+ 
 - I have hands on experience with data visualization and analysis as a Data Analyst Intern at Union Mutual of Vermont.  
-  
 
-- I have experience using R to analyze the performance of the UVM Men's D1 soccer team, providing insight to the coaching staff.  
+- I have experience using R to analyze the performance of the UVM Men's D1 soccer team, providing insight to the coaching staff.
+
+-  I recently finished a NBA game prediction model in an upper level machine learning course.
+
+-  I am currently working on a project looking to cluster teams by play style in the top 5 football leagues using Python.
  
 Check out my projects below!
 
