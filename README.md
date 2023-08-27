@@ -1,6 +1,6 @@
 ## <div align="center"> Welcome! </div>  
   
-  My name is Owen Patrick, I recently graduated from the University of Vermont with a B.S. in Data Science. I have a passion for machine learning, data visualization, and sports analytics. I find analytics in professional football (soccer) to be extremely cool, especially in the context of tactics and scouting. I am an avid soccer fan and I believe that analytics can be used to find weaknesses in opposition, strengthen a pre-existing tactic, or find under-the-radar players well-suited to a particular system.
+  My name is Owen Patrick, I recently graduated from the University of Vermont with a B.S. in Data Science. I have a passion for machine learning, data visualization, and sports analytics. I find analytics in professional football (soccer) to be fascinating, especially in the context of tactics and scouting. I am an avid soccer fan and I believe that analytics can be used to find weaknesses in opposition, strengthen a pre-existing tactic, or find under-the-radar players well-suited to a particular system.
  
 Check out my projects below!
 
