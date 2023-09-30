@@ -1,6 +1,6 @@
 ## <div align="center"> Welcome! </div>  
   
-  My name is Owen Patrick, I recently graduated from the University of Vermont with a B.S. in Data Science. I have a passion for machine learning, data visualization, and sports analytics. I find analytics in professional football (soccer) to be fascinating, especially in the context of tactics and scouting. Some of my favorite languages to work with are Python, R, and SQL.
+  My name is Owen Patrick, I recently graduated from the University of Vermont with a B.S. in Data Science. I have a passion for machine learning, data visualization, and sports analytics. Some of my favorite languages to work with are Python, R, and SQL.
  
 Check out my projects below!
 
